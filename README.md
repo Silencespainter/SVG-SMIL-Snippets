@@ -83,7 +83,7 @@ The snippets are listed below in alphabetical order. The `'$1'` indicates the po
 ###animaradius
 
 ```html
-<animate attributeName="radius" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>
+<animate attributeName="r" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>
 ```
 
 ###animarx

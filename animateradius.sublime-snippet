@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<animate attributeName="radius" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>]]>
+	<content><![CDATA[<animate attributeName="r" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>]]>
 </content>
 	<description>SMIL - ANIMATE: radius</description>
 	<tabTrigger>animaradius</tabTrigger>
