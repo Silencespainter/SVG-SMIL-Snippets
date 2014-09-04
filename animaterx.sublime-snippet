@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<animate attributeName="rx" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>]]>
+</content>
+	<description>SMIL - ANIMATE: rounded corners</description>
+	<tabTrigger>animarx</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

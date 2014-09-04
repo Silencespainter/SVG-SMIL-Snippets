@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<animateMotion values="$1" begin="$2" dur="$3" calcMode="$4" keyPoints="$5" rotate="$6" fill="$7"/>]]>
+</content>
+	<description>SMIL - ANIMATE MOTION: values</description>
+	<tabTrigger>animamotionvalues</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

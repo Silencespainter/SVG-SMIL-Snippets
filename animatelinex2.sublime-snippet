@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<animate attributeName="x2" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>]]>
+</content>
+	<description>SMIL - ANIMATE: line x2</description>
+	<tabTrigger>animalinex2</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

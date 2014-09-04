@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<animateMotion dur="$1" repeatCount="$2" rotate="$3">
+        <mpath xlink:href="$4"/>
+    </animateMotion>]]>
+</content>
+	<description>SMIL - ANIMATE MOTION: mpath</description>
+	<tabTrigger>animamotionmpath</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

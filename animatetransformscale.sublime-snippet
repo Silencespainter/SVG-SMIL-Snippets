@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<animateTransform attributeName="transform" type="scale" values="$1" begin="$2" dur="$3" calcMode="$4" keyTimes="$5" fill="$6"/>]]>
+</content>
+	<description>SMIL - ANIMATE TRANSFORM: scale</description>
+	<tabTrigger>animascale</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
